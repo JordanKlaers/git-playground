@@ -1,6 +1,6 @@
 const obj = {
 	a: 'a',
 	b: 'b',
-	//c: 'c',
-	d: 'd'
+	d: 'd',
+	value: 'This is the original Value'
 }
