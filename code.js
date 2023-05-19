@@ -2,5 +2,5 @@ const obj = {
 	a: 'a',
 	b: 'b',
 	d: 'd',
-	value: 'This is the original Value'
+	value: 'updated to medalist things'
 }
